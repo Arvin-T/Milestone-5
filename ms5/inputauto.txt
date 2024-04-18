@@ -1,0 +1,13 @@
+1
+0
+1
+2
+John Doe
+123123123
+Stomach pain
+1
+2
+Jane Doe
+234234234
+Abdomen pain
+0

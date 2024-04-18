@@ -1,0 +1,18 @@
+/***********************************************************************
+Milestone 5
+Name:         Seyedarvin Tabatabaei Ferezghi
+Seneca email: stabatabaei-ferezghi@myseneca.ca
+Student ID:   122267230
+Date:         APL 17 2024
+***********************************************************************/
+
+
+The project of ‘General Healthcare’ was an amazing chance for me to enhance my knowledge in OOP in C++. Through creating classes such as Patient, TestPatient and TriagePatient, I could encapsulate data and behaviour that resembled the actual concepts. It taught me how inheritance offers a neat way to hold onto shared features while allowing for specialized functionalities. There was something about moving from C to C++ that made me feel empowered, with OOP becoming more useful in organizing my coding. If I'm being honest, although C++ can be painfully confusing sometimes, the strongly typed nature of it helped me to make this complex application.
+
+Also, it helped to emphasize the significance of modularity. Whenever I modularized my code into functions that focused on doing certain things; life became very easy when debugging the errors. In addition, this gave me valuable lessons on the importance of ensuring that any input validation and error handling scenarios were considered.
+
+Issues:
+
+One of the most difficult parts of this project was mastering the art of dynamic memory allocation in C++.  It required a lot of time and effort to learn the technique of using new and delete effectively so as to avoid memory leaks. I thought I had a good grasp of this concept, however, when you are working on a project this big, things can get messy really quick. On some occasions, it might take days or weeks for me to identify which part of my code has caused this problem. This was another challenge; being able to pick out what was important and not simply adding features that would make it more complex but rather focus on clarity and simplicity.
+
+Lastly, my programming skills with C++ had been hardened through working on this Application. Moreover, I realized how object-oriented approach could be applied in order to solve any kind of problems that occur in practice and why it is necessary to have good coding practices which are easy to understand. Thus, this has served as a stepping stone towards my career as a computer programmer.
